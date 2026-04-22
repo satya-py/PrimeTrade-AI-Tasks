@@ -223,7 +223,7 @@ Step 16 →  Final Insights & Strategy Recommendations
 
 ## 👤 Author
 
-**Data Science Candidate**  
+**Data Science Candidate** -- Satyabrata Das Adhikary 
 Assignment for: **Prime Trade AI**  
 Date: **April 2026**
 
